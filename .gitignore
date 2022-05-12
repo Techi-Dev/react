@@ -34,7 +34,7 @@ bower_components
 *.sublime*
 psd
 thumb
-sketch
+
 
 packages/react-devtools-core/dist
 packages/react-devtools-extensions/chrome/build
