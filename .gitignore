@@ -24,6 +24,18 @@ chrome-user-data
 *.swp
 *.swo
 
+.DS_*
+logs
+**/*.backup.*
+**/*.back.*
+node_modules
+bower_components
+
+*.sublime*
+psd
+thumb
+sketch
+
 packages/react-devtools-core/dist
 packages/react-devtools-extensions/chrome/build
 packages/react-devtools-extensions/chrome/*.crx
